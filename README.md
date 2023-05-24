@@ -1,7 +1,8 @@
 # Data_scientist_salary_prediction_2023
 Created this project on May 2023.
-Data Science Job Salaries Dataset contains 11 columns, each are:
 
+
+Data Science Job Salaries Dataset contains 11 columns, each are:-
 work_year: The year the salary was paid.
 experience_level: The experience level in the job during the year
 employment_type: The type of employment for the role
