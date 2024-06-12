@@ -22,5 +22,6 @@ Created this project on May 2023.
 5. **Conclusions and Recommendations**:
    - Model performance suggests that linear regression may not effectively capture the relationship between predictors and the target variable.
    - Next steps include exploring non-linear models like decision trees or neural networks, addressing heteroscedasticity, feature engineering, and utilizing cross-validation techniques.
+     
 
 Overall, while the analysis provided insights into the dataset and initial modeling attempts were made, further exploration and refinement of modeling techniques are needed to improve predictive performance.
